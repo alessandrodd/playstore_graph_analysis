@@ -32,4 +32,4 @@ mongorestore --gzip --db mytestdb --collection playstore playstore_snapshot.bson
 
 [Here you can find](https://goo.gl/rCKjM3) a **list of all the application (app) packages**, in no particular order (*Warning: 80MB txt file*)
 
-All the images and graphs used in the project report [are available here].
+All the images and graphs used in the project report [are available here](https://goo.gl/zXjLcT).
