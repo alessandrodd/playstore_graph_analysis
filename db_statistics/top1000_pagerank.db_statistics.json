@@ -1,0 +1,320 @@
+{
+  "biggest_apps": [
+    [
+      "com.android.chrome", 
+      128897864
+    ], 
+    [
+      "com.mobile.legends", 
+      103759265
+    ], 
+    [
+      "com.facebook.Mentions", 
+      103364175
+    ], 
+    [
+      "com.halfbrick.fruitninjafree", 
+      103221346
+    ], 
+    [
+      "com.rovio.angrybirds", 
+      102422849
+    ], 
+    [
+      "com.campmobile.snow", 
+      98993794
+    ], 
+    [
+      "com.hutchgames.hotwheels", 
+      98753549
+    ], 
+    [
+      "com.ketchapp.fingerspinner", 
+      98630851
+    ], 
+    [
+      "com.tocaboca.tocakitchen", 
+      97866465
+    ], 
+    [
+      "com.kbpro.JamDay", 
+      97081870
+    ]
+  ], 
+  "smallest_apps": [
+    [
+      "com.teslacoilsw.launcher.prime", 
+      70328
+    ], 
+    [
+      "in.AajTak.ATLite", 
+      77723
+    ], 
+    [
+      "com.domobile.applockwatcher", 
+      84649
+    ], 
+    [
+      "com.aurhe.ap15", 
+      345946
+    ], 
+    [
+      "keyboard.theme.k820001833", 
+      794063
+    ], 
+    [
+      "com.farproc.wifipassword", 
+      1092778
+    ], 
+    [
+      "com.socialnmobile.dictapps.notepad.color.note", 
+      1102676
+    ], 
+    [
+      "com.innovativeGames.archery", 
+      1175406
+    ], 
+    [
+      "com.zayaninfotech.english.grammar", 
+      1203113
+    ], 
+    [
+      "com.sasyabook.runningtrainstatus", 
+      1339802
+    ]
+  ], 
+  "avg_app_size": 22999076.022, 
+  "stdev_app_size": 21540376.04682336, 
+  "95perc_app_size": 69500627.45, 
+  "99perc_app_size": 95861106.94, 
+  "avg_app_timestamp": 1492217355.6, 
+  "top_bayesian_rated_apps": [
+    [
+      "com.hellochinese", 
+      4.854133605957031
+    ], 
+    [
+      "com.shanga.walli", 
+      4.841651439666748
+    ], 
+    [
+      "org.iggymedia.periodtracker", 
+      4.83021354675293
+    ], 
+    [
+      "com.popularapp.thirtydayfitnesschallenge", 
+      4.812278747558594
+    ], 
+    [
+      "com.radio.helloworld", 
+      4.802224159240723
+    ], 
+    [
+      "workout.homeworkouts.workouttrainer", 
+      4.800537109375
+    ], 
+    [
+      "ru.wall7Fon", 
+      4.7974443435668945
+    ], 
+    [
+      "com.teslacoilsw.launcher.prime", 
+      4.791828155517578
+    ], 
+    [
+      "com.cmplay.dancingline", 
+      4.788298606872559
+    ], 
+    [
+      "com.magicv.airbrush", 
+      4.785975456237793
+    ]
+  ], 
+  "avg_bayesian_rating": 4.284911908864975, 
+  "stdev_bayesian_rating": 0.26892037085830583, 
+  "95perc_bayesian_rating": 4.652897548675537, 
+  "99perc_bayesian_rating": 4.784561138153076, 
+  "avg_star_rating": 4.286871253728867, 
+  "stdev_star_rating": 0.26848301883526543, 
+  "95perc_star_rating": 4.654999756813049, 
+  "99perc_star_rating": 4.784654908180237, 
+  "n_apps": 1000, 
+  "n_creators": 754, 
+  "most_prolific_creators": [
+    [
+      "Google Inc.", 
+      24
+    ], 
+    [
+      "Girl Games - Vasco Games", 
+      14
+    ], 
+    [
+      "Fotoable,Inc.", 
+      13
+    ], 
+    [
+      "Lyrebird Studio", 
+      8
+    ], 
+    [
+      "Disney", 
+      7
+    ], 
+    [
+      "K3Games", 
+      7
+    ], 
+    [
+      "Budge Studios", 
+      6
+    ], 
+    [
+      "Microsoft Corporation", 
+      6
+    ], 
+    [
+      "Games For Girls", 
+      6
+    ], 
+    [
+      "Nickelodeon", 
+      5
+    ]
+  ], 
+  "avg_apps_per_creator": 1.3262599469496021, 
+  "stdev_apps_per_creator": 1.2894902931961962, 
+  "95perc_apps_per_creator": 3.0, 
+  "99perc_apps_per_creator": 6.0, 
+  "n_permissions": 184, 
+  "avg_permissions_per_app": 11.379, 
+  "stdev_permissions_per_app": 9.345124878780378, 
+  "95perc_permissions_per_app": 32.0, 
+  "99perc_permissions_per_app": 48.00999999999999, 
+  "most_requested_permissions": [
+    [
+      "ANDROID.PERMISSION.INTERNET", 
+      99.0
+    ], 
+    [
+      "ANDROID.PERMISSION.ACCESS_NETWORK_STATE", 
+      98.2
+    ], 
+    [
+      "ANDROID.PERMISSION.READ_EXTERNAL_STORAGE", 
+      79.0
+    ], 
+    [
+      "ANDROID.PERMISSION.WRITE_EXTERNAL_STORAGE", 
+      77.3
+    ], 
+    [
+      "ANDROID.PERMISSION.WAKE_LOCK", 
+      75.6
+    ], 
+    [
+      "ANDROID.PERMISSION.ACCESS_WIFI_STATE", 
+      57.4
+    ], 
+    [
+      "ANDROID.PERMISSION.VIBRATE", 
+      48.0
+    ], 
+    [
+      "ANDROID.PERMISSION.READ_PHONE_STATE", 
+      42.4
+    ], 
+    [
+      "ANDROID.PERMISSION.RECEIVE_BOOT_COMPLETED", 
+      37.3
+    ], 
+    [
+      "ANDROID.PERMISSION.GET_ACCOUNTS", 
+      31.1
+    ]
+  ], 
+  "less_requested_permissions": [
+    [
+      "ANDROID.PERMISSION.BROADCAST_WAP_PUSH", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.BLUETOOTH_PRIVILEGED", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.UPDATE_APP_OPS_STATS", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.MOUNT_FORMAT_FILESYSTEMS", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.READ_CALL_STATE", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.BILLING", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.SEC.MDM_CERTIFICATE", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.USES_LOG_UPLOAD_SERVICE", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.CAPTURE_AUDIO_HOTWORD", 
+      0.1
+    ], 
+    [
+      "ANDROID.PERMISSION.C2D_MESSAGE", 
+      0.1
+    ]
+  ], 
+  "top_permissions_requesters": [
+    [
+      "com.fiberlink.maas360.android.control", 
+      62
+    ], 
+    [
+      "org.antivirus", 
+      62
+    ], 
+    [
+      "com.microsoft.launcher", 
+      62
+    ], 
+    [
+      "com.antivirus.tablet", 
+      62
+    ], 
+    [
+      "org.antivirus.tablet", 
+      62
+    ], 
+    [
+      "com.antivirus", 
+      62
+    ], 
+    [
+      "com.fsecure.ms.dc", 
+      62
+    ], 
+    [
+      "com.lbe.security", 
+      62
+    ], 
+    [
+      "com.textfun.text.free.call", 
+      62
+    ], 
+    [
+      "com.fsecure.ms.safe", 
+      62
+    ]
+  ]
+}

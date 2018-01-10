@@ -1,0 +1,7 @@
+matplotlib==2.1.0
+networkx==2.0
+numpy==1.13.3
+pymongo==3.5.1
+rake_nltk==1.0.1
+retry_decorator==1.1.0
+snap==0.5

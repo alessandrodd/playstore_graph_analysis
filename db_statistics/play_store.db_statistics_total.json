@@ -1,0 +1,320 @@
+{
+  "biggest_apps": [
+    [
+      "com.android.chrome", 
+      128897864
+    ], 
+    [
+      "com.chrome.canary", 
+      126599160
+    ], 
+    [
+      "com.chrome.beta", 
+      126188875
+    ], 
+    [
+      "com.chrome.dev", 
+      126180667
+    ], 
+    [
+      "com.Company.WTM2", 
+      104857120
+    ], 
+    [
+      "com.spilgames.StarlitAdventures", 
+      104856055
+    ], 
+    [
+      "org.mapapps.mapyourtown.denmark", 
+      104853760
+    ], 
+    [
+      "org.mapapps.mapyourtown.switzerland", 
+      104852072
+    ], 
+    [
+      "mi.finca.com", 
+      104848446
+    ], 
+    [
+      "com.bintangkejora.apps.sholawathabibsyechhd", 
+      104837934
+    ]
+  ], 
+  "smallest_apps": [
+    [
+      "com.nabin.lrrh", 
+      3218
+    ], 
+    [
+      "com.aiuspaktyn.s", 
+      3412
+    ], 
+    [
+      "b.a", 
+      3425
+    ], 
+    [
+      "com.test.pine", 
+      3566
+    ], 
+    [
+      "dk.nordfalk.esperanto.donacoj2", 
+      4236
+    ], 
+    [
+      "dk.nordfalk.esperanto.donacoj1", 
+      4357
+    ], 
+    [
+      "o.p", 
+      4371
+    ], 
+    [
+      "com.quartertone.levelheaded.donate", 
+      4444
+    ], 
+    [
+      "ru.kombio.myapplication", 
+      4732
+    ], 
+    [
+      "com.nodeal.trash", 
+      4841
+    ]
+  ], 
+  "avg_app_size": 11474400.645704601, 
+  "stdev_app_size": 13910871.148875969, 
+  "95perc_app_size": 39888470.449999996, 
+  "99perc_app_size": 67963209.59000045, 
+  "avg_app_timestamp": 1460144037.5085018, 
+  "top_bayesian_rated_apps": [
+    [
+      "com.wackyarcadegames.jewels.wackybirdsbubbleshooter", 
+      4.985697269439697
+    ], 
+    [
+      "clickdisk.app5", 
+      4.972089767456055
+    ], 
+    [
+      "com.vsionteq.fruitrocker", 
+      4.969970703125
+    ], 
+    [
+      "org.baps.vachanamrut", 
+      4.968379497528076
+    ], 
+    [
+      "nahunhee.independence_fighter", 
+      4.963057518005371
+    ], 
+    [
+      "com.al.haramain", 
+      4.962671279907227
+    ], 
+    [
+      "white.simplicity.eggGame", 
+      4.9617695808410645
+    ], 
+    [
+      "com.darijansekerov.slikozbormk", 
+      4.959439754486084
+    ], 
+    [
+      "clickdisk.app10", 
+      4.956613540649414
+    ], 
+    [
+      "kr.cova.TimeSale", 
+      4.956208229064941
+    ]
+  ], 
+  "avg_bayesian_rating": 3.4601689652069534, 
+  "stdev_bayesian_rating": 0.4404201209698844, 
+  "95perc_bayesian_rating": 4.312635040283203, 
+  "99perc_bayesian_rating": 4.583895301818848, 
+  "avg_star_rating": 4.133217959027612, 
+  "stdev_star_rating": 0.8304358991994495, 
+  "95perc_star_rating": 5.0, 
+  "99perc_star_rating": 5.0, 
+  "n_apps": 2924382, 
+  "n_creators": 682824, 
+  "most_prolific_creators": [
+    [
+      "CrowdCompass by Cvent", 
+      3832
+    ], 
+    [
+      "Subsplash Consulting", 
+      3503
+    ], 
+    [
+      "Branded Apps by MINDBODY", 
+      2811
+    ], 
+    [
+      "Magzter Inc.", 
+      2760
+    ], 
+    [
+      "iniCall.com", 
+      2260
+    ], 
+    [
+      "Skoolbag", 
+      2163
+    ], 
+    [
+      "KitApps, Inc.", 
+      2100
+    ], 
+    [
+      "eChurch App", 
+      2025
+    ], 
+    [
+      "MINDBODY Branded Apps", 
+      1795
+    ], 
+    [
+      "Komakuro", 
+      1774
+    ]
+  ], 
+  "avg_apps_per_creator": 4.282775649362061, 
+  "stdev_apps_per_creator": 19.1511640612724, 
+  "95perc_apps_per_creator": 13.0, 
+  "99perc_apps_per_creator": 51.0, 
+  "n_permissions": 953863, 
+  "avg_permissions_per_app": 7.6802609918950395, 
+  "stdev_permissions_per_app": 6.771963664352339, 
+  "95perc_permissions_per_app": 20.0, 
+  "99perc_permissions_per_app": 29.0, 
+  "most_requested_permissions": [
+    [
+      "ANDROID.PERMISSION.INTERNET", 
+      91.86850418310604
+    ], 
+    [
+      "ANDROID.PERMISSION.ACCESS_NETWORK_STATE", 
+      83.56080019641757
+    ], 
+    [
+      "ANDROID.PERMISSION.READ_EXTERNAL_STORAGE", 
+      58.08027131886326
+    ], 
+    [
+      "ANDROID.PERMISSION.WRITE_EXTERNAL_STORAGE", 
+      57.33696897327367
+    ], 
+    [
+      "ANDROID.PERMISSION.WAKE_LOCK", 
+      41.89695463862108
+    ], 
+    [
+      "ANDROID.PERMISSION.ACCESS_WIFI_STATE", 
+      32.61837885748168
+    ], 
+    [
+      "COM.GOOGLE.ANDROID.C2DM.PERMISSION.RECEIVE", 
+      32.14282539011661
+    ], 
+    [
+      "ANDROID.PERMISSION.READ_PHONE_STATE", 
+      27.233172684006394
+    ], 
+    [
+      "ANDROID.PERMISSION.VIBRATE", 
+      25.772556389691907
+    ], 
+    [
+      "ANDROID.PERMISSION.ACCESS_FINE_LOCATION", 
+      24.922804202734117
+    ]
+  ], 
+  "less_requested_permissions": [
+    [
+      "COM.DNOVAK.MY_SPRINGS.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "AU.COM.SOLUS.GLENEIRALIBRARIES.PERMISSION.PUSHHANDLERACTIVITY", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.DEV.IDANB.PURENADLAN01.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.SOUTHERNEER.OVERUNDERANDROID.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.NIKKISELLSLA.APP.PERMISSION.MAPS_RECEIVE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.PENANDINK.VITAMIN_APPS_BANGLA.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.QTM.APP.RAINPHOTOFRAME.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.GMAIL.KOIZUMIAPPDEV.NEWSOKU.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.APP_MBU.LAYOUT.PERMISSION.C2D_MESSAGE", 
+      3.41952590325067e-05
+    ], 
+    [
+      "COM.CONDUIT.APP_CD39719B34B94F4C82F143B439E1A771.APP.PERMISSION.RECEIVE_ADM_MESSAGE", 
+      3.41952590325067e-05
+    ]
+  ], 
+  "top_permissions_requesters": [
+    [
+      "info.cloneapp.mochat.in.goast", 
+      377
+    ], 
+    [
+      "com.whatstools_best.two_whatsapp_appsone", 
+      229
+    ], 
+    [
+      "com.cmcm.multiaccount", 
+      229
+    ], 
+    [
+      "com.jack.appclonemultiaccount", 
+      229
+    ], 
+    [
+      "info.cloneapp.avatarmaster.intl", 
+      229
+    ], 
+    [
+      "com.parallel.appclonemultiaccount", 
+      229
+    ], 
+    [
+      "com.rachid.hsabat", 
+      229
+    ], 
+    [
+      "com.whatstools_best.two_whatsapp_appclone", 
+      229
+    ], 
+    [
+      "com.onebw.twoaccount.whatsmessage", 
+      229
+    ], 
+    [
+      "com.eg.android.AlipayGphone", 
+      223
+    ]
+  ]
+}
